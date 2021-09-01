@@ -8,6 +8,9 @@ server.set('view engine', 'ejs')
 //habilitar arquivos estáticos
 server.use(express.static("public"))
 
+// liberar acesso ao req.body
+server.use(express.urlencoded({ extended: true}))
+
 //routes
 server.use(routes)
 
