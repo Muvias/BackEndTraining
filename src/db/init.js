@@ -12,7 +12,7 @@ const initDb = {
             monthly_budget INT,
             days_per_week INT,
             hours_per_day INT,
-            vacation_per-year INT,
+            vacation_per_year INT,
             value_hour INT
         )`);
 
@@ -31,6 +31,7 @@ const initDb = {
                 days_per_week, 
                 hours_per_day, 
                 vacation_per_year,
+                value_hour
             ) VALUES (
                 "Vinicius",
                 "https://avatars.githubusercontent.com/u/52111824?v=4",
@@ -38,13 +39,14 @@ const initDb = {
                 5,
                 6,
                 4,
+                70
             );`);
 
         await db.run(`INSERT INTO jobs (
                 name,
                 daily_hours,
                 total_hours,
-                created_at,
+                created_at
             ) VALUES (
                 "Pizzaria Guloso",
                 2,
@@ -56,7 +58,7 @@ const initDb = {
                 name,
                 daily_hours,
                 total_hours,
-                created_at,
+                created_at
             ) VALUES (
                 "OneTwo Projects",
                 3,
