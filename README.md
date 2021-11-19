@@ -11,9 +11,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
-</p>
+![DevFinances](https://user-images.githubusercontent.com/52111824/142534996-3538af37-2a1f-40f0-9585-8de9bee09a39.png)
 
 ## 🚀 Tecnologias
 
