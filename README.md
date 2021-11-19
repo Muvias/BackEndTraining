@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
-</h1>
+# Projeto JobsCalc
+> Status: finished.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,6 +9,8 @@
 </p>
 
 <br>
+
+![Screenshot_1](https://user-images.githubusercontent.com/52111824/142542430-fa457492-1c9f-4158-958c-a8ed17edc420.png)
 
 
 ## 🚀 Tecnologias
